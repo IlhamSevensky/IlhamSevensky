@@ -3,7 +3,6 @@
 I am very passionate about android development and also an open source enthusiast :heart:.
 
 ## Know more about me
-
 ---
 
 :small_blue_diamond:  LinkedIn : https://www.linkedin.com/in/ilham-budi-prasetyo/
