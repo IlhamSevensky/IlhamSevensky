@@ -1,8 +1,8 @@
 ## **Hello, I am Ilham :v:**
 
-I am very passionate about android development and also an open source enthusiast :heart:
+I am very passionate about android development and also an open source enthusiast :heart:.
 
-### Know more about me
+## Know more about me
 
 ---
 
