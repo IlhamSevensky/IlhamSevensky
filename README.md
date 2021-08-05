@@ -1,51 +1,15 @@
 [here]: https://ilham67.blogspot.com "Ilham Blog"
 
-<style type="text/css">
+# :clap: Hello there! I'm Ilham Budi Prasetyo
 
-    .row-flex {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-    }
+### I am very passionate about android development and also an open source enthusiast :heart:.
 
-    .item-margin {
-        margin: 10px 10px 10px 0px;
-    }
-
-    .social-media-container {
-        width: fit-content;
-        height: fit-content;
-        padding: 10px;
-        margin: 10px 10px 10px 0px;
-        display: flex;
-        flex-wrap: nowrap;
-        align-items: center;
-        background: #151515;
-        border-radius: 5px;
-        border: 1px solid white;
-    }
-
-    .social-media-container .icon {
-        width: 30px;
-        height: 30px;
-    }
-
-    .social-media-container .name {
-        color: white;
-        padding: 0px 0px 0px 10px;
-    }
-
-</style>
-
-<h1>:clap: Hello there! I'm Ilham Budi Prasetyo</h1>
-<h3>I am very passionate about android development and also an open source enthusiast :heart:.</h3>
-
-<div class="row-flex">
+<div align="left">
     <a href="#">
-        <img class="item-margin" alt="Visitor" src="https://visitor-badge.laobi.icu/badge?page_id=IlhamSevensky.IlhamSevensky">
+        <img alt="Visitor" src="https://visitor-badge.laobi.icu/badge?page_id=IlhamSevensky.IlhamSevensky">
     </a>
     <a href="https://github.com/IlhamSevensky?tab=followers">
-        <img class="item-margin" alt="GitHub followers" src="https://img.shields.io/github/followers/IlhamSevensky?color=green&logo=github">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/IlhamSevensky?color=green&logo=github">
     </a>
 </div>
 
@@ -56,35 +20,29 @@
 - :seedling: &nbsp;I like mountain climbing and things related to nature
 - :memo: &nbsp;I have a personal blog about technology, you can see it **[here]**
 
-<br>
+## Connect with me
 
-<h2>Connect with me</h2>
-
-<div class="row-flex">
-    <a class="social-media-container" href="#">
-        <img class="icon" style="width: 30px;
-        height: 30px;" src="icons/github.svg">
-        <span class="name">Ilham Sevensky</span>
+<div align="left">
+    <a href="https://ilhamsevensky.github.io/">
+        <img src="icons/github.svg" width="50" height="50" alt="Github Pages">
     </a>
-    <a class="social-media-container" href="#">
-        <img class="icon" src="icons/linkedin.svg">
-        <span class="name">Ilham Budi Prasetyo</span>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ilham18/">
+        <img src="icons/linkedin.svg" width="50" height="50" alt="Linkedin">
     </a>
-    <a class="social-media-container" href="#">
-        <img class="icon" src="icons/facebook.svg">
-        <span class="name">Ilham Budi Prasetyo</span>
+    &nbsp;
+    <a href="https://www.facebook.com/ilham.budip.7/">
+        <img src="icons/facebook.svg" width="50" height="50" alt="Facebook">
     </a>
-    <a class="social-media-container" href="#">
-        <img class="icon" src="icons/blogger.svg">
-        <span class="name">Ilham Blog</span>
+    &nbsp;
+    <a href="https://ilham67.blogspot.com/">
+        <img src="icons/blogger.svg" width="50" height="50" alt="Blog">
     </a>
 </div>
 
-<br>
+## Github stats
 
-<h2>Github stats</h2>
-
-<div class="row-flex">
-    <img class="item-margin" src="https://github-readme-stats.vercel.app/api?username=IlhamSevensky&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="github stats"/>
-    <img class="item-margin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamSevensky&langs_count=8&layout=compact&theme=dark" alt="most used languages" />
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=IlhamSevensky&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Github Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamSevensky&langs_count=8&layout=compact&theme=dark" alt="Most Used Languages" />
 </div>
