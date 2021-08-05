@@ -49,16 +49,21 @@
     </a>
 </div>
 
+<br>
+
 - :school: &nbsp;I'm an informatics engineering student at Politeknik Negeri Semarang
 - :man_technologist: &nbsp;I'm currently focusing on developing android apps using **Kotlin**
 - :seedling: &nbsp;I like mountain climbing and things related to nature
 - :memo: &nbsp;I have a personal blog about technology, you can see it **[here]**
 
+<br>
+
 <h2>Connect with me</h2>
 
 <div class="row-flex">
     <a class="social-media-container" href="#">
-        <img class="icon" src="icons/github.svg">
+        <img class="icon" style="width: 30px;
+        height: 30px;" src="icons/github.svg">
         <span class="name">Ilham Sevensky</span>
     </a>
     <a class="social-media-container" href="#">
@@ -74,6 +79,8 @@
         <span class="name">Ilham Blog</span>
     </a>
 </div>
+
+<br>
 
 <h2>Github stats</h2>
 
