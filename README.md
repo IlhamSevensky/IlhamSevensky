@@ -1,6 +1,6 @@
 [here]: https://ilham67.blogspot.com "Ilham Blog"
 
-<style>
+<style type="text/css">
 
     .row-flex {
         display: flex;
